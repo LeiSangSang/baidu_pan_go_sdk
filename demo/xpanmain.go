@@ -7,7 +7,7 @@ import (
 	"io/ioutil"
 	"os"
 
-	openapiclient "open-sdk-go/openxpanapi"
+	openapiclient "github.com/LeiSangSang/baidu_pan_go_sdk/openxpanapi"
 )
 
 const (
